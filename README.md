@@ -1,5 +1,6 @@
 # Enviando Mensagens de WhatsApp com a API do Facebook
-![My mini_monster](Whatsapp_bot_1.0/mini_monster.png)
+
+![My mini monster](mini_monster.png)
 
 ## Introdução
 
