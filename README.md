@@ -1,6 +1,6 @@
 # Enviando Mensagens de WhatsApp com a API do Facebook
 
- <img src="mini_monster.jpg" alt="Mini_monster" width="400">
+ <img src="https://github.com/TitoBahe/Whatsapp_bot_1.0/blob/main/mini_monster.jpg" alt="Mini_monster" width="400">
 
 ## Introdução
 
