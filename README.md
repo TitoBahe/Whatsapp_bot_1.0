@@ -1,5 +1,7 @@
 Enviando Mensagens de WhatsApp com a API do Facebook
+
 Introdução
+
 Neste projeto, desenvolvemos um código em Python que utiliza a API do Facebook Graph para enviar mensagens do WhatsApp. O código permite enviar mensagens de um número padrão fornecido pela API do WhatsApp diretamente para o seu número de telefone. Este guia irá detalhar o funcionamento do código, bem como fornecer exemplos visuais (prints) de cada etapa do processo.
 
 Preparação do Ambiente
