@@ -1,6 +1,6 @@
 # Enviando Mensagens de WhatsApp com a API do Facebook
 
-![My mini monster](mini_monster.jpg)
+ <img src="mini_monster.jpg" alt="Mini_monster" width="400">
 
 ## Introdução
 
